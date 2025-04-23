@@ -1,6 +1,4 @@
 import numpy as np
-
-import numpy as np
 import re
 
 def read_pws_file(filename):
@@ -58,13 +56,3 @@ def print_pws_files_data(file_list):
             print("-" * 80)
         except Exception as e:
             print(f"Error processing file {file_path}: {e}")
-
-
-
-file_list = [
-    "data/PWS_NASA_Dataset111_rrf.faa",
-    "data/PWS_NASA_Dataset111_u.faa",
-    "data/PWS_NASA_Dataset111_v.faa",
-    "data/PWS_NASA_Dataset111_w.faa"
-]
-print_pws_files_data(file_list)
