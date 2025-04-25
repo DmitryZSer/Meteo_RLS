@@ -56,3 +56,9 @@ def print_pws_files_data(file_list):
             print("-" * 80)
         except Exception as e:
             print(f"Error processing file {file_path}: {e}")
+            
+            
+file_list = [
+    "data/DO-220B Reference Supplement/NASA Windshear Database Models/c1_11.faa"
+]
+print_pws_files_data(file_list)
