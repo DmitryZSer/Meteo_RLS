@@ -7,6 +7,11 @@ def read_pws_file(filename):
         var_name = f.readline().strip()       # Variable name
         ix, iy, iz = map(int, f.readline().split())  # Grid dimensions (x, y, z)
          
+        # ix -=1
+        # iy -=1
+        # iz -=1
+         
+         
         time_line = list(map(float, f.readline().split()))
         sim_time = time_line[0]# simtime - time of the simulation in seconds
         xstart, ystart, zstart = time_line[1], time_line[2], time_line[3] #origin coordinates
