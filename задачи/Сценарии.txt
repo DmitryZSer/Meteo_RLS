@@ -1,0 +1,216 @@
+Scenario 1
+NASA Windshear Data Set/Time:
+Data Set:
+Model Simulation Time:
+Description:
+Radar Clutter Model:
+Flight Phase:
+Flight Scenario Location:
+True Airspeed:
+Windshear Penetration Path:
+Flight Path Assumptions:
+Approximate Peak FBAR along path:
+Approximate Peak Reflectivity along path:
+Outflow Reflectivity:
+Approximate Diameter of Outflow at Peak Velocity
+Change:
+Growth Stage:
+Intervening rain:
+Temperature Lapse Rate:
+Symmetry:
+Stage of Evolution for Primary Microburst:
+Data Set Origin X0, Y0
+Data Set Domain Size X x Y x Z
+
+111
+1
+11 minutes
+Wet Microburst with Rain and Hail, 08/02/85 DFW Accident Case,
+Dallas-Fort Worth, Texas
+Newark 4R/22L
+Aligned for takeoff
+Aligned for takeoff to the east. The microburst leading edge is located
+3.0 NMI
+0 knots
+Takeoff toward east along Y = 0 axis
+Brake release at X,Y = (-6.8, 0) km
+Liftoff at X,Y = (-4.8, 0) km
+Takeoff ground roll length = 2 km
+Flight path angle after takeoff = 0.10 radians (5.73 degrees)
+Runway length = 3 km (9840 feet)
+0.2
+55 dBZ
+35 to 42 dBZ
+3.5 km
+N/A
+No
+Adiabatic
+Axisymmetric
+Peak Intensity
+-4000 meters, -4000 meters
+50 meters x 50 meters x 50 meters
+8 km x 8 km x 2 km
+
+
+
+Scenario 2
+NASA Windshear Data Set/Time:
+Data Set:
+Model Simulation Time:
+Description:
+Radar Clutter Model:
+Flight Phase:
+Flight Scenario Location:
+True Airspeed:
+Windshear Penetration Path:
+Flight Path Assumptions:
+Approximate Peak FBAR along path:
+Approximate Peak Reflectivity along path:
+Outflow Reflectivity:
+Approximate Diameter of Outflow at Peak
+Velocity Change:
+Growth Stage:
+Intervening rain:
+Temperature Lapse Rate:
+Symmetry:
+Stage of Evolution for Primary Microburst:
+Data Set Origin X0, Y0
+Data Set Domain Size X x Y x Z
+
+111
+1
+11 minutes
+Wet Microburst with Rain and Hail, 08/02/85 DFW Accident Case,
+Dallas-Fort Worth, Texas
+Newark 4R/22L
+Straight in approach
+-3 degree straight in approach to the east. The microburst leading edge
+is located 0.5 NMI from runway threshold.
+150 knots
+Approach toward east along Y = 0 axis
+Place runway threshold at X,Y = (0, 0) km
+Glide slope angle = 3 degrees (gamma = -0.0524)
+Glide path intercept point = 300 meters down runway
+Middle marker location = 900 meters from runway threshold
+Runway length = 3 km (9840 feet)
+The above conditions produce a glide path height of 63 meters at the
+middle marker.
+0.14
+55 dBZ
+35 to 42 dBZ
+3.5 km
+N/A
+No
+Adiabatic
+Axisymmetric
+Peak Intensity
+-4000 meters, -4000 meters
+50 meters x 50 meters x 50 meters
+8 km x 8 km x 2 km
+
+Scenario 3
+NASA Windshear Data Set / Time:
+Data Set:
+Model Simulation Time:
+Description:
+Radar Clutter Model:
+Flight Phase:
+Flight Scenario Location:
+True Airspeed:
+Windshear Penetration Path:
+Flight Path Assumptions:
+Approximate Peak FBAR along path:
+Approximate Peak Reflectivity along path:
+Outflow Reflectivity:
+Approximate Diameter of Outflow at Peak
+Velocity Change:
+Growth Stage:
+Intervening rain:
+Temperature Lapse Rate:
+Symmetry:
+Stage of Evolution for Primary Microburst:
+Data Set Origin X0, Y0
+Data Set Domain Size X x Y x Z
+
+237
+2
+37 minutes
+Wet Microburst, 06/20/91 NASA Research Flight, Orlando, Florida
+Newark 4R/22L
+Straight in approach
+-3 degree straight in approach to the south. The microburst leading edge
+is located 0.5 NMI from runway threshold.
+150 knots
+Approach toward south along X = -1.8 km line
+Place runway threshold at X,Y = (-1.8, -1.9) km
+Glide slope angle = 3 degrees (gamma = -0.0524)
+Glide path intercept point = 300 meters down runway
+Middle marker location = 900 meters from runway threshold
+Runway length = 3 km (9840 feet)
+The above conditions produce a glide path height of 63 meters at the
+middle marker.
+0.14
+50 dBZ
+37 to 45 dBZ
+3.5 km
+N/A
+Yes
+Adiabatic
+Rough symmetry
+Peak Intensity
+-8834 meters, -8880 meters
+100 meters x 100 meters x 50 meters
+
+Scenario 4
+NASA Windshear Data Set / Time:
+Data Set:
+Model Simulation Time:
+Description:
+Radar Clutter Model:
+Flight Phase:
+Flight Scenario Location:
+True Airspeed:
+Windshear Penetration Path:
+Flight Path Assumptions:
+Approximate Peak FBAR along path:
+Approximate Peak Reflectivity along path:
+Outflow Reflectivity:
+Approximate Diameter of Outflow at Peak
+Velocity Change:
+Growth Stage:
+Intervening rain:
+Temperature Lapse Rate:
+Symmetry:
+Stage of Evolution for Primary Microburst:
+Data Set Origin X0, Y0
+Data Set Domain Size X x Y x Z
+
+237
+2
+37 minutes
+Wet Microburst, 06/20/91 NASA Research Flight, Orlando, Florida
+Newark 4R/22L
+Straight in approach
+-3 degree straight in approach to the east. The microburst leading edge
+is located 0.5 NMI from runway threshold.
+150 knots
+Approach toward east along Y = 1.1 km line
+Place runway threshold at X,Y = (-1.8, 1.1) km
+Glide slope angle = 3 degrees (gamma = -0.0524)
+Glide path intercept point = 300 meters down runway
+Middle marker location = 900 meters from runway threshold
+Runway length = 3 km (9840 feet)
+The above conditions produce a glide path height of 63 meters at the
+middle marker.
+0.06 [Below threshold, Must-Not Alert scenario]
+50 dBZ
+37 to 45 dBZ
+3.5 km
+Developing
+Yes
+Adiabatic
+Rough symmetry
+Peak Intensity
+-8834 meters, -8880 meters
+100 meters x 100 meters x 50 meters
+15 km x 15 km x 2 km
