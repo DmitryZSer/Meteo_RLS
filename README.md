@@ -6,78 +6,80 @@
 
 - Python 3.12 или выше
 - pip (установщик пакетов Python)
+- Git
 
 ## Установка и настройка
 
-### Для Windows
+### Клонирование репозитория
 
-1. Откройте командную строку (Command Prompt) или PowerShell.
-2. Перейдите в директорию проекта:
+1. Откройте командную строку (Command Prompt) или PowerShell (для Windows) или терминал (для Linux).
+2. Клонируйте репозиторий:
+
+    ```sh
+    git clone https://github.com/DmitryZSer/Meteo_RLS.git
+    ```
+
+3. Перейдите в директорию проекта:
 
     ```sh
     cd Meteo_RLS
     ```
 
-3. Создайте виртуальное окружение:
+### Для Windows
+
+1. Создайте виртуальное окружение:
 
     ```sh
     python -m venv .venv
     ```
 
-4. Активируйте виртуальное окружение:
+2. Активируйте виртуальное окружение:
 
     ```sh
     .venv\Scripts\activate
     ```
 
-5. Установите зависимости:
+3. Установите зависимости:
 
     ```sh
     pip install -r requirements.txt
     ```
 
-6. Запустите Jupyter Notebook:
+4. Запустите Jupyter Notebook:
 
     ```sh
     jupyter notebook
     ```
 
-7. Перейдите в браузере по адресу [http://localhost:8888](http://localhost:8888).
+5. Перейдите в браузере по адресу [http://localhost:8888](http://localhost:8888).
 
 ### Для Linux
 
-1. Откройте терминал.
-2. Перейдите в директорию проекта:
-
-    ```sh
-    cd Meteo_RLS
-    ```
-
-3. Создайте виртуальное окружение:
+1. Создайте виртуальное окружение:
 
     ```sh
     python3 -m venv .venv
     ```
 
-4. Активируйте виртуальное окружение:
+2. Активируйте виртуальное окружение:
 
     ```sh
     source .venv/bin/activate
     ```
 
-5. Установите зависимости:
+3. Установите зависимости:
 
     ```sh
     pip install -r requirements.txt
     ```
 
-6. Запустите Jupyter Notebook:
+4. Запустите Jupyter Notebook:
 
     ```sh
     jupyter notebook
     ```
 
-7. Перейдите в браузере по адресу [http://localhost:8888](http://localhost:8888).
+5. Перейдите в браузере по адресу [http://localhost:8888](http://localhost:8888).
 
 ## Запуск проекта
 
