@@ -18,8 +18,11 @@
     ```sh
     git clone https://github.com/DmitryZSer/Meteo_RLS.git
     ```
+3. Скачайте файл с данными по ссылке: [https://disk.yandex.ru/d/C-NLYkAdBLL2aQ](data)
 
-3. Перейдите в директорию проекта:
+4. Распакуйте скачанный архив в директорию проекта (Пример правильного расположение: Meteo_RLS/data/111/PWS_NASA_Dataset111_u.faa)
+
+5. Перейдите в директорию проекта в коммандной строке:
 
     ```sh
     cd Meteo_RLS
